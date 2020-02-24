@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e05f1c92-9efa-4411-aa9c-7ff200be695a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Bank" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/router.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/views/Home.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/Header.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/store/store.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/assets/image/t-model.svg" />
+        <option value="$PROJECT_DIR$/src/components/Inputs/ContactInputs.vue" />
+        <option value="$PROJECT_DIR$/src/components/HeaderMain/HeaderMain.vue" />
+        <option value="$PROJECT_DIR$/src/components/store.js" />
+        <option value="$PROJECT_DIR$/src/components/Translator.vue" />
+        <option value="$PROJECT_DIR$/src/components/Inputs/FinalInput.vue" />
+        <option value="$PROJECT_DIR$/src/components/SliderContent/SmallSlider.vue" />
+        <option value="$PROJECT_DIR$/src/components/SliderContent/SliderContent.vue" />
+        <option value="$PROJECT_DIR$/src/components/Inputs/Inputs.vue" />
+        <option value="$PROJECT_DIR$/src/components/SliderContent/Constructor.vue" />
+        <option value="$PROJECT_DIR$/public/assets/img/logo.svg" />
+        <option value="$PROJECT_DIR$/public/assets/img/backImg.svg" />
+        <option value="$PROJECT_DIR$/public/assets/img/Phone.svg" />
+        <option value="$PROJECT_DIR$/public/assets/img/Select.svg" />
+        <option value="$PROJECT_DIR$/public/assets/img/rect.svg" />
+        <option value="$PROJECT_DIR$/public/assets/img/phone4.svg" />
+        <option value="$PROJECT_DIR$/public/assets/img/phone3.svg" />
+        <option value="$PROJECT_DIR$/public/assets/img/phone1.svg" />
+        <option value="$PROJECT_DIR$/public/assets/img/phone2.svg" />
+        <option value="$PROJECT_DIR$/public/assets/img/group.svg" />
+        <option value="$PROJECT_DIR$/public/assets/img/qr.svg" />
+        <option value="$PROJECT_DIR$/src/components/HeaderMenu/Menu.vue" />
+        <option value="$PROJECT_DIR$/src/components/Body/Clients.vue" />
+        <option value="$PROJECT_DIR$/src/components/Footer/Footer.vue" />
+        <option value="$PROJECT_DIR$/src/components/Body/Form.vue" />
+        <option value="$PROJECT_DIR$/src/components/Body/Position.vue" />
+        <option value="$PROJECT_DIR$/src/components/Body/Support.vue" />
+        <option value="$PROJECT_DIR$/src/components/About/About.vue" />
+        <option value="$PROJECT_DIR$/src/components/About/AboutPerfect.vue" />
+        <option value="$PROJECT_DIR$/src/components/About/AboutPhones.vue" />
+        <option value="$PROJECT_DIR$/src/components/Body/Artwork.vue" />
+        <option value="$PROJECT_DIR$/src/components/HeaderMenu/ContentHead.vue" />
+        <option value="$PROJECT_DIR$/src/components/AppContent/Content.vue" />
+        <option value="$PROJECT_DIR$/public/assets/phone.svg" />
+        <option value="$PROJECT_DIR$/src/components/Menu.vue" />
+        <option value="$PROJECT_DIR$/src/components/Content.vue" />
+        <option value="$PROJECT_DIR$/src/components/Main.vue" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/src/components/Home.vue" />
+        <option value="$PROJECT_DIR$/src/Home.vue" />
+        <option value="$PROJECT_DIR$/src/views/Form.vue" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/src/views/Detail.vue" />
+        <option value="$PROJECT_DIR$/src/router.js" />
+        <option value="$PROJECT_DIR$/src/views/coctail.svg" />
+        <option value="$PROJECT_DIR$/src/App.vue" />
+        <option value="$PROJECT_DIR$/src/views/Header.vue" />
+        <option value="$PROJECT_DIR$/src/views/List.vue" />
+        <option value="$PROJECT_DIR$/src/store/store.js" />
+        <option value="$PROJECT_DIR$/src/views/Home.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="802" />
+  </component>
+  <component name="ProjectId" id="1S3k21zvkQZLRc13qQnUF0aqGlv" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Eslint</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Bank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bank" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/views" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/" />
+      <recent name="$PROJECT_DIR$/public/assets/img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.serve">
+    <configuration name="build" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.build" />
+      <item itemvalue="npm.serve" />
+      <item itemvalue="npm.start" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e05f1c92-9efa-4411-aa9c-7ff200be695a" name="Default Changelist" comment="" />
+      <created>1570799455454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570799455454</updated>
+      <workItem from="1570799456967" duration="1843000" />
+      <workItem from="1571061284838" duration="15903000" />
+      <workItem from="1571735726452" duration="5888000" />
+      <workItem from="1571748751173" duration="15000" />
+      <workItem from="1571820583221" duration="31628000" />
+      <workItem from="1572253987046" duration="803000" />
+      <workItem from="1572255817827" duration="512000" />
+      <workItem from="1572257749806" duration="134000" />
+      <workItem from="1572259900514" duration="620000" />
+      <workItem from="1572266469181" duration="279000" />
+      <workItem from="1572271301383" duration="608000" />
+      <workItem from="1572273209652" duration="1261000" />
+      <workItem from="1572275040362" duration="147000" />
+      <workItem from="1572275240292" duration="1618000" />
+      <workItem from="1572277047393" duration="410000" />
+      <workItem from="1572278912435" duration="541000" />
+      <workItem from="1572338070228" duration="929000" />
+      <workItem from="1572343898955" duration="21000" />
+      <workItem from="1572345732746" duration="15000" />
+      <workItem from="1572347580617" duration="14000" />
+      <workItem from="1572349455668" duration="13000" />
+      <workItem from="1572351281886" duration="17000" />
+      <workItem from="1572353630822" duration="17000" />
+      <workItem from="1572357861427" duration="20000" />
+      <workItem from="1572360592774" duration="16000" />
+      <workItem from="1572363078284" duration="448000" />
+      <workItem from="1572434267640" duration="12000" />
+      <workItem from="1572434621120" duration="863000" />
+      <workItem from="1572444866472" duration="6000" />
+      <workItem from="1572469642342" duration="238000" />
+      <workItem from="1572511918509" duration="33970000" />
+      <workItem from="1572947507776" duration="27435000" />
+      <workItem from="1573116671253" duration="3172000" />
+      <workItem from="1573138878751" duration="12867000" />
+      <workItem from="1573461648120" duration="8432000" />
+      <workItem from="1573813204661" duration="662000" />
+      <workItem from="1574688386827" duration="1851000" />
+      <workItem from="1580738126378" duration="46385000" />
+      <workItem from="1581463062851" duration="126000" />
+      <workItem from="1581514284609" duration="1229000" />
+      <workItem from="1582461372823" duration="1713000" />
+      <workItem from="1582463183437" duration="17589000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="155669000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="802" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989518" visible="true" weight="0.2739628" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" sideWeight="0.5010482" side_tool="true" weight="0.2532189" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44647887" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32957748" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32676056" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32816902" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32957748" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32816902" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/components/SliderContent/fabric.min.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/Inputs/ContactInputs.vue" />
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Inputs/Inputs.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/Inputs/FinalInput.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/SliderContent/Constructor.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/Translator.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/SliderContent/SliderContent.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/SliderContent/SmallSlider.vue" />
+    <entry file="file://$PROJECT_DIR$/public/assets/img/logo.svg" />
+    <entry file="file://$PROJECT_DIR$/public/assets/img/Phone.svg" />
+    <entry file="file://$PROJECT_DIR$/public/assets/img/Select.svg" />
+    <entry file="file://$PROJECT_DIR$/public/assets/img/rect.svg" />
+    <entry file="file://$PROJECT_DIR$/public/assets/img/backImg.svg" />
+    <entry file="file://$PROJECT_DIR$/public/assets/img/phone4.svg" />
+    <entry file="file://$PROJECT_DIR$/public/assets/img/phone3.svg" />
+    <entry file="file://$PROJECT_DIR$/public/assets/img/phone1.svg" />
+    <entry file="file://$PROJECT_DIR$/public/assets/img/group.svg" />
+    <entry file="file://$PROJECT_DIR$/public/assets/img/phone2.svg" />
+    <entry file="file://$PROJECT_DIR$/public/assets/img/qr.svg" />
+    <entry file="file://$PROJECT_DIR$/src/components/HeaderMenu/Menu.vue" />
+    <entry file="file://$PROJECT_DIR$/public/assets/img/rect.png" />
+    <entry file="file://$PROJECT_DIR$/src/components/Body/Clients.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/Footer/Footer.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/Body/Form.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/About/AboutPerfect.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/HeaderMenu/ContentHead.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/AppContent/Content.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/About/About.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/Body/Artwork.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/About/AboutPhones.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/Body/Position.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/Body/Support.vue" />
+    <entry file="file://$PROJECT_DIR$/public/assets/oh" />
+    <entry file="file://$PROJECT_DIR$/src/components/Content.vue" />
+    <entry file="file://$PROJECT_DIR$/public/assets/phone.svg" />
+    <entry file="file://$PROJECT_DIR$/src/components/Menu.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/Main.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/Form.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/Detail.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/coctail.svg" />
+    <entry file="file://$PROJECT_DIR$/node_modules/vue/types/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/cocktail.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/List.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Header.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
