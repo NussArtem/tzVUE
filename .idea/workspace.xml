@@ -3,25 +3,198 @@
   <component name="ChangeListManager">
     <list default="true" id="e05f1c92-9efa-4411-aa9c-7ff200be695a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a940e4d8ca64c380ebcbaaee35b1862d.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a940e4d8ca64c380ebcbaaee35b1862d.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/bb732ae7545ce327ee9a6a56f9ef6871.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/bb732ae7545ce327ee9a6a56f9ef6871.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f31ba506ac8d26f782594372210ea77c.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f31ba506ac8d26f782594372210ea77c.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/0c89c72c63beb1956ba7306419217a74.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/0c89c72c63beb1956ba7306419217a74.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1006f04598a5ffb5f5fe4c51ba84dbfb.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1006f04598a5ffb5f5fe4c51ba84dbfb.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/3d9be5af153a409ef2107cf5b9ba5e90.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/3d9be5af153a409ef2107cf5b9ba5e90.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/53e7bb814935f6cbf65f31febc2f29f2.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/53e7bb814935f6cbf65f31febc2f29f2.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5cf61f89f2046bda23dc0484f0a6ca58.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5cf61f89f2046bda23dc0484f0a6ca58.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/72bce43dc8d13b626dce903b1db01778.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/72bce43dc8d13b626dce903b1db01778.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/7a1b6c65e1a79e121b265284d861e4f4.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/7a1b6c65e1a79e121b265284d861e4f4.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/9608ea7a505b528d80370aa4b3936c05.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/9608ea7a505b528d80370aa4b3936c05.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/971f1a868e596ee7fe61978886d6fda9.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/971f1a868e596ee7fe61978886d6fda9.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/9a565a2c4dc60b59512828613f8d19b6.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/9a565a2c4dc60b59512828613f8d19b6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/admin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-Black.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-Black.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-BlackItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-BlackItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-BoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-BoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-ExtraBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-ExtraBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-ExtraBoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-ExtraBoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-Heavy.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-Heavy.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-Heavy.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-HeavyItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-HeavyItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-HeavyItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-Light.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-LightItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-LightItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-Medium.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-MediumItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-MediumItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-RegularItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-RegularItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-RegularItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-SemiBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-SemiBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-SemiBoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-SemiBoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-Thin.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-Thin.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-ThinItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-ThinItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-UltraLight.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-UltraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-UltraLight.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-UltraLightItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-UltraLightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/Gilroy-UltraLightItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/gilroy/stylesheet.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Header.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/SeaweedScript-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/admin/tables.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/autocomplete.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/datetimepicker/jquery.datetimepicker.full.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/datetimepicker/jquery.datetimepicker.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/jquery.datetimepicker.full.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/jquery.fancybox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/jquery.mCustomScrollbar.concat.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/jquery.mCustomScrollbar/jquery.mCustomScrollbar.concat.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/jquery.mCustomScrollbar/jquery.mCustomScrollbar.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/jquery.raty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/moment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/raty.js/fonts/raty.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/raty.js/fonts/raty.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/raty.js/fonts/raty.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/raty.js/fonts/raty.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/raty.js/images/cancel-off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/raty.js/images/cancel-on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/raty.js/images/star-half.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/raty.js/images/star-off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/raty.js/images/star-on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/raty.js/jquery.raty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/raty.js/jquery.raty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/css/select2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/css/select2.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/bn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/bs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/dsb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/hi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/hsb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/hy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/is.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/ka.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/ms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/ne.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/ps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/pt-BR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/sr-Cyrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/tk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/zh-CN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/i18n/zh-TW.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/select2.full.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/select2.full.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/select2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/select2/js/select2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor/svg4everybody.legacy.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/_component.calendar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/_fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/_main.content.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/_main.footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/_main.header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/_main.homepage.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/_main.layout.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/_main.modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/_main.profile.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/components/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/components/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/components/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/components/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/components/_normalize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/components/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/components/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/mixins/_flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/mixins/_grid-mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/mixins/_vendor-prefixes.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/mixins/_visibility-mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/utilities/_embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scss/utilities/_utilities.scss" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +210,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
+            <state relative-caret-position="180">
               <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
@@ -55,7 +228,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/router.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="165">
               <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
@@ -67,8 +240,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/views/Home.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="279" column="93" selection-start-line="279" selection-start-column="93" selection-end-line="279" selection-end-column="93" />
+            <state relative-caret-position="638">
+              <caret line="298" column="105" selection-start-line="298" selection-start-column="93" selection-end-line="298" selection-end-column="105" />
               <folding>
                 <element signature="n#style#0;n#!!top" />
               </folding>
@@ -101,7 +274,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
+            <state relative-caret-position="285">
               <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
@@ -113,7 +286,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/store/store.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-88">
+            <state relative-caret-position="120">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
@@ -139,7 +312,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/components/HeaderMain/HeaderMain.vue" />
         <option value="$PROJECT_DIR$/src/components/store.js" />
         <option value="$PROJECT_DIR$/src/components/Translator.vue" />
         <option value="$PROJECT_DIR$/src/components/Inputs/FinalInput.vue" />
@@ -189,6 +361,7 @@
         <option value="$USER_HOME$/Downloads/finprognoz-frontend-master/analytic-profile.html" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/store/store.js" />
+        <option value="$PROJECT_DIR$/../Const.html" />
         <option value="$PROJECT_DIR$/src/views/Home.vue" />
       </list>
     </option>
@@ -212,10 +385,9 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="802" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectId" id="1S3k21zvkQZLRc13qQnUF0aqGlv" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -244,6 +416,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -283,7 +456,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -421,12 +593,18 @@
       <workItem from="1581463062851" duration="126000" />
       <workItem from="1581514284609" duration="1229000" />
       <workItem from="1582461372823" duration="1713000" />
-      <workItem from="1582463183437" duration="27492000" />
+      <workItem from="1582463183437" duration="28505000" />
+      <workItem from="1583072367119" duration="320000" />
+      <workItem from="1583148935035" duration="2000" />
+      <workItem from="1583244823746" duration="493000" />
+      <workItem from="1583245925088" duration="58000" />
+      <workItem from="1583247267684" duration="21000" />
+      <workItem from="1583247526693" duration="772000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165572000" />
+    <option name="totallyTimeSpent" value="168251000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -438,15 +616,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="802" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989518" visible="true" weight="0.2739628" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989518" visible="true" weight="0.29971388" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" sideWeight="0.5010482" side_tool="true" weight="0.2532189" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44647887" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44578314" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -455,7 +633,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.50563383" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.5048193" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -492,7 +670,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/Inputs/FinalInput.vue" />
     <entry file="file://$PROJECT_DIR$/src/components/SliderContent/Constructor.vue" />
     <entry file="file://$PROJECT_DIR$/src/components/Translator.vue" />
     <entry file="file://$PROJECT_DIR$/src/components/SliderContent/SliderContent.vue" />
@@ -539,6 +716,24 @@
     <entry file="file://$PROJECT_DIR$/public/cocktail.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/List.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/Header.vue" />
+    <entry file="file://$USER_HOME$/Downloads/analytic-profile.html" />
+    <entry file="file://$USER_HOME$/Downloads/finprognoz-frontend-master/analytic-profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="51" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Const.html" />
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -548,54 +743,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/router.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="165">
           <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/List.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Header.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/analytic-profile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
@@ -618,16 +769,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/finprognoz-frontend-master/analytic-profile.html">
+    <entry file="file://$PROJECT_DIR$/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="51" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="14" selection-end-column="51" />
+        <state relative-caret-position="285">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/store/store.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-88">
+        <state relative-caret-position="120">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
@@ -637,8 +791,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/views/Home.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="279" column="93" selection-start-line="279" selection-start-column="93" selection-end-line="279" selection-end-column="93" />
+        <state relative-caret-position="638">
+          <caret line="298" column="105" selection-start-line="298" selection-start-column="93" selection-end-line="298" selection-end-column="105" />
           <folding>
             <element signature="n#style#0;n#!!top" />
           </folding>
