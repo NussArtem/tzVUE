@@ -5,14 +5,10 @@ Vue.use(Vuex);
 
 const store = new Vuex.Store({
     state: {
-        info: '',
 
     },
     getters: {
-        getInfo(state) {
-            return state.info;
 
-        },
 
 
 
