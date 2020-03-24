@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e05f1c92-9efa-4411-aa9c-7ff200be695a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/HeaderMain/Modal.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Admin.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Film.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/NewlView.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/News.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Poster.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6ae7badebc534ab9f0da8ee33272b4a8.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6ae7badebc534ab9f0da8ee33272b4a8.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a940e4d8ca64c380ebcbaaee35b1862d.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a940e4d8ca64c380ebcbaaee35b1862d.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/bb732ae7545ce327ee9a6a56f9ef6871.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/bb732ae7545ce327ee9a6a56f9ef6871.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f31ba506ac8d26f782594372210ea77c.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f31ba506ac8d26f782594372210ea77c.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/0c89c72c63beb1956ba7306419217a74.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/0c89c72c63beb1956ba7306419217a74.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1006f04598a5ffb5f5fe4c51ba84dbfb.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1006f04598a5ffb5f5fe4c51ba84dbfb.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/3d9be5af153a409ef2107cf5b9ba5e90.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/3d9be5af153a409ef2107cf5b9ba5e90.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/53e7bb814935f6cbf65f31febc2f29f2.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/53e7bb814935f6cbf65f31febc2f29f2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5cf61f89f2046bda23dc0484f0a6ca58.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5cf61f89f2046bda23dc0484f0a6ca58.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/72bce43dc8d13b626dce903b1db01778.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/72bce43dc8d13b626dce903b1db01778.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/9608ea7a505b528d80370aa4b3936c05.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/9608ea7a505b528d80370aa4b3936c05.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/971f1a868e596ee7fe61978886d6fda9.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/971f1a868e596ee7fe61978886d6fda9.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/9a565a2c4dc60b59512828613f8d19b6.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/9a565a2c4dc60b59512828613f8d19b6.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/cocktail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
-    </list>
+    <list default="true" id="e05f1c92-9efa-4411-aa9c-7ff200be695a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +110,7 @@
         <entry file="file://$PROJECT_DIR$/src/views/Admin.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="687" column="82" selection-start-line="687" selection-start-column="82" selection-end-line="687" selection-end-column="82" />
+              <caret line="687" lean-forward="true" selection-start-line="687" selection-end-line="687" />
               <folding>
                 <element signature="n#style#0;n#aside#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
               </folding>
@@ -460,12 +432,12 @@
       <workItem from="1583245925088" duration="58000" />
       <workItem from="1583247267684" duration="21000" />
       <workItem from="1583247526693" duration="5383000" />
-      <workItem from="1585059562196" duration="11453000" />
+      <workItem from="1585059562196" duration="11950000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="184315000" />
+    <option name="totallyTimeSpent" value="184812000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -478,7 +450,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989518" weight="0.3040057" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -495,7 +466,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.5901408" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.5891566" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -720,7 +691,7 @@
     <entry file="file://$PROJECT_DIR$/src/views/Admin.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="687" column="82" selection-start-line="687" selection-start-column="82" selection-end-line="687" selection-end-column="82" />
+          <caret line="687" lean-forward="true" selection-start-line="687" selection-end-line="687" />
           <folding>
             <element signature="n#style#0;n#aside#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
           </folding>
