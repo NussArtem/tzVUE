@@ -1,6 +1,6 @@
 <template>
     <div>
-        <p class="title">News
+        <p class="title">Новости
         </p>
         <span v-for="(news,idx) in list" :key="idx" class="card bg-light">
                         <div class="card-body text-center">
@@ -23,7 +23,7 @@
                 list: [
                     {
                         title: 'News 1',
-                        text: 'qwewqewqewqewqe',
+                        text: ' Some Text',
                         id: '1'
                     },
                     {

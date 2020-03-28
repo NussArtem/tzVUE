@@ -5,13 +5,15 @@
 
                 <!-- Modal Header -->
                 <div class="modal-header">
-                    <h4 class="modal-title">HI!</h4>
+                    <h4 class="modal-title">Вход в админ панель!</h4>
                 </div>
 
                 <!-- Modal body -->
                 <div class="modal-body">
                     <input type="text" v-model="IsLogin">
-                    <button class="btn-info btn" type="reset" @click="Login">LOG IN</button>
+                    <button class="btn-info btn ml-2" type="reset" @click="Login">
+                        Вход
+                    </button>
 
                 </div>
 

@@ -10,7 +10,7 @@
       <router-link to="poster" class="nav-link">Афиша</router-link>
     </li>
     <li class="nav-item">
-      <router-link to="news" class="nav-link">News</router-link>
+      <router-link to="news" class="nav-link">Новости</router-link>
     </li>
  <li class="nav-item">
  <button type="button" class="btn btn-primary" data-toggle="modal" @click="ModalView">

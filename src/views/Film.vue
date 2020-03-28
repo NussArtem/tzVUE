@@ -4,7 +4,8 @@
         <div class="card-body">
             <h4 class="card-title">{{name}}</h4>
             <p class="card-text">{{text}}</p>
-            <p class="btn btn-primary">{{time}}</p>
+           <p> Время сеансов</p>
+            <p class="btn btn-primary ml-1" v-for="(times,idx) in time" :key="idx">{{times}}</p>
         </div>
     </div>
 
@@ -12,17 +13,22 @@
 
 <script>
     import axios from 'axios'
+
     export default {
         name: "Film",
-        data(){
-            return{
-                img:'https://www.w3schools.com/bootstrap4/img_avatar6.png',
-                name:'acre',
-                text:'Nasdsadsadasdsa dsadsadsad dsadsadsadsa',
-                time:'14:22'
+        data() {
+            return {
+
+                name: 'Le fabuleux destin d\'Amélie Poulain',
+                title: 'Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.',
+                id: '1',
+                time: ['12:00','22:00','18:00','15:00','5:00'],
+                img: "https://loadtv.biz/wp-content/uploads/2013/07/Friends-NBC-season-10-2004-poster.jpg"
+
+
             }
         },
-        mounted(){
+        mounted() {
             axios
                 .get(`https://url${this.$route.params.id}
 `)
